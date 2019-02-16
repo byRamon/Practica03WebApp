@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\MTW_Projs\\Net\\Practica03WebApp\\Practica03\\Practica03WebApp\\Practica03WebApp.csproj",
+      "projectUniqueName": "C:\\Proyectos\\MTW_Projs\\Net\\Practica03WebApp\\Practica03WebApp\\Practica03WebApp.csproj",
       "projectName": "Practica03WebApp",
-      "projectPath": "C:\\Proyectos\\MTW_Projs\\Net\\Practica03WebApp\\Practica03\\Practica03WebApp\\Practica03WebApp.csproj",
+      "projectPath": "C:\\Proyectos\\MTW_Projs\\Net\\Practica03WebApp\\Practica03WebApp\\Practica03WebApp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\MTW_Projs\\Net\\Practica03WebApp\\Practica03\\Practica03WebApp\\obj\\",
+      "outputPath": "C:\\Proyectos\\MTW_Projs\\Net\\Practica03WebApp\\Practica03WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
